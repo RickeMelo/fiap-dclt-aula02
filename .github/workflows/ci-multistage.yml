@@ -1,7 +1,7 @@
 # ============================================
 # WORKFLOW: CI Pipeline Multistage
 # ============================================
-name: 🔄 CI_Multistage_Pipeline_MeloRicke
+name: 🔄 CI Multistage Pipeline
 
 on:
   push:
